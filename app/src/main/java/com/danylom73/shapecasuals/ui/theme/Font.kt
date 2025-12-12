@@ -1,0 +1,11 @@
+package com.danylom73.shapecasuals.ui.theme
+
+import androidx.compose.ui.text.font.Font
+import androidx.compose.ui.text.font.FontFamily
+import androidx.compose.ui.text.font.FontWeight
+import com.danylom73.shapecasuals.R
+
+val AppFontFamily = FontFamily(
+    Font(R.font.roboto_regular, FontWeight.Normal),
+    Font(R.font.roboto_bold, FontWeight.Bold),
+)
