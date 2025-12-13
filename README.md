@@ -14,6 +14,7 @@
 *Приблизний вигляд гри:*
 
 <img src="./img/01.png" height="500"/>
+https://github.com/user-attachments/assets/9b440459-f9fd-4d77-a4b0-a5f3f05d2aea
 
 ### 🧗‍♂️ Vertical Run **[в розробці]**
 
