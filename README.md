@@ -35,7 +35,7 @@ https://github.com/user-attachments/assets/0c0cba0b-c57c-41ed-952c-546171831cde
 
 ## ⬇️ Як завантажити гру?
 
-Завантажити та пограти в гру можна встановивши APK файл з [Диску](https://drive.google.com/drive/folders/1sBDFlnS2GwzbDVGqxK5Q792tIgJ1tTSa?usp=drive_link) на власний мобільний пристрій.
+Завантажити та пограти в гру можна встановивши APK файл з [Диску](https://drive.google.com/drive/folders/1_1Y2W22OkMsplV_lub1Xq7_ZBfKUUg8F?usp=sharing) на власний мобільний пристрій.
 
 ---
 
